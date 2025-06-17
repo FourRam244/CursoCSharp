@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Json", "Json\Json.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List", "List\List.csproj", "{FBC2B9F0-7644-487A-B51D-A75FDF0FF5ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForEach", "ForEach\ForEach.csproj", "{FDE96C86-AD15-45CF-B620-F37621F9B87C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosComunesListas", "MetodosComunesListas\MetodosComunesListas.csproj", "{1E3CE2D6-A2CA-488F-90A0-8604B8CB79F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,14 @@ Global
 		{FBC2B9F0-7644-487A-B51D-A75FDF0FF5ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBC2B9F0-7644-487A-B51D-A75FDF0FF5ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBC2B9F0-7644-487A-B51D-A75FDF0FF5ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDE96C86-AD15-45CF-B620-F37621F9B87C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDE96C86-AD15-45CF-B620-F37621F9B87C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDE96C86-AD15-45CF-B620-F37621F9B87C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDE96C86-AD15-45CF-B620-F37621F9B87C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E3CE2D6-A2CA-488F-90A0-8604B8CB79F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E3CE2D6-A2CA-488F-90A0-8604B8CB79F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E3CE2D6-A2CA-488F-90A0-8604B8CB79F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E3CE2D6-A2CA-488F-90A0-8604B8CB79F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
