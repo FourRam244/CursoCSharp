@@ -39,6 +39,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForEach", "ForEach\ForEach.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosComunesListas", "MetodosComunesListas\MetodosComunesListas.csproj", "{1E3CE2D6-A2CA-488F-90A0-8604B8CB79F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposAnonimos", "TiposAnonimos\TiposAnonimos.csproj", "{C366C5D3-C862-45E6-8AB0-184E1F9C041A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuplas", "Tuplas\Tuplas.csproj", "{C24AF7D5-B916-4CF2-A472-48A3C73A425B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +121,14 @@ Global
 		{1E3CE2D6-A2CA-488F-90A0-8604B8CB79F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E3CE2D6-A2CA-488F-90A0-8604B8CB79F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E3CE2D6-A2CA-488F-90A0-8604B8CB79F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C366C5D3-C862-45E6-8AB0-184E1F9C041A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C366C5D3-C862-45E6-8AB0-184E1F9C041A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C366C5D3-C862-45E6-8AB0-184E1F9C041A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C366C5D3-C862-45E6-8AB0-184E1F9C041A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C24AF7D5-B916-4CF2-A472-48A3C73A425B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C24AF7D5-B916-4CF2-A472-48A3C73A425B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C24AF7D5-B916-4CF2-A472-48A3C73A425B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C24AF7D5-B916-4CF2-A472-48A3C73A425B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
