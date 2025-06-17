@@ -1,0 +1,14 @@
+C:\Users\Cesar Ramirez\Desktop\Curso CSharp\SobreCargaYMetodos\SobreCargaYMetodos\bin\Debug\net8.0\SobreCargaYMetodos.exe
+C:\Users\Cesar Ramirez\Desktop\Curso CSharp\SobreCargaYMetodos\SobreCargaYMetodos\bin\Debug\net8.0\SobreCargaYMetodos.deps.json
+C:\Users\Cesar Ramirez\Desktop\Curso CSharp\SobreCargaYMetodos\SobreCargaYMetodos\bin\Debug\net8.0\SobreCargaYMetodos.runtimeconfig.json
+C:\Users\Cesar Ramirez\Desktop\Curso CSharp\SobreCargaYMetodos\SobreCargaYMetodos\bin\Debug\net8.0\SobreCargaYMetodos.dll
+C:\Users\Cesar Ramirez\Desktop\Curso CSharp\SobreCargaYMetodos\SobreCargaYMetodos\bin\Debug\net8.0\SobreCargaYMetodos.pdb
+C:\Users\Cesar Ramirez\Desktop\Curso CSharp\SobreCargaYMetodos\SobreCargaYMetodos\obj\Debug\net8.0\SobreCargaYMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar Ramirez\Desktop\Curso CSharp\SobreCargaYMetodos\SobreCargaYMetodos\obj\Debug\net8.0\SobreCargaYMetodos.AssemblyInfoInputs.cache
+C:\Users\Cesar Ramirez\Desktop\Curso CSharp\SobreCargaYMetodos\SobreCargaYMetodos\obj\Debug\net8.0\SobreCargaYMetodos.AssemblyInfo.cs
+C:\Users\Cesar Ramirez\Desktop\Curso CSharp\SobreCargaYMetodos\SobreCargaYMetodos\obj\Debug\net8.0\SobreCargaYMetodos.csproj.CoreCompileInputs.cache
+C:\Users\Cesar Ramirez\Desktop\Curso CSharp\SobreCargaYMetodos\SobreCargaYMetodos\obj\Debug\net8.0\SobreCargaYMetodos.dll
+C:\Users\Cesar Ramirez\Desktop\Curso CSharp\SobreCargaYMetodos\SobreCargaYMetodos\obj\Debug\net8.0\refint\SobreCargaYMetodos.dll
+C:\Users\Cesar Ramirez\Desktop\Curso CSharp\SobreCargaYMetodos\SobreCargaYMetodos\obj\Debug\net8.0\SobreCargaYMetodos.pdb
+C:\Users\Cesar Ramirez\Desktop\Curso CSharp\SobreCargaYMetodos\SobreCargaYMetodos\obj\Debug\net8.0\SobreCargaYMetodos.genruntimeconfig.cache
+C:\Users\Cesar Ramirez\Desktop\Curso CSharp\SobreCargaYMetodos\SobreCargaYMetodos\obj\Debug\net8.0\ref\SobreCargaYMetodos.dll
