@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcepcionPersonalizada", "E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", "{EF4ED7CB-E6CE-4D7E-8E1A-1B1F560C7F60}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ_Join", "LINQ_Join\LINQ_Join.csproj", "{79CDA57F-45BA-497F-9692-A8B5D6F59371}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{EF4ED7CB-E6CE-4D7E-8E1A-1B1F560C7F60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF4ED7CB-E6CE-4D7E-8E1A-1B1F560C7F60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF4ED7CB-E6CE-4D7E-8E1A-1B1F560C7F60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79CDA57F-45BA-497F-9692-A8B5D6F59371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79CDA57F-45BA-497F-9692-A8B5D6F59371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79CDA57F-45BA-497F-9692-A8B5D6F59371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79CDA57F-45BA-497F-9692-A8B5D6F59371}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
